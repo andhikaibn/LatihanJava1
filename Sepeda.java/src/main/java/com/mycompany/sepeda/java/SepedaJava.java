@@ -8,7 +8,7 @@ package pewarisan;
  *
  * @author ANDIKA
  */
-class Sepeda {
+class SepedaJava {
 int kecepatan = 0;
 int gir = 0;
 //method

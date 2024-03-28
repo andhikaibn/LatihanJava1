@@ -8,7 +8,7 @@ package com.mycompany.optlogika.java;
  *
  * @author ANDIKA
  */
-public class OptLogika {
+public class OptLogikaJava {
     public static void main(String[] args) {
         System.out.println("Operator AND");
         System.out.println("True && True = " + (true&&true));
