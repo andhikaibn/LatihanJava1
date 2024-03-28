@@ -8,7 +8,7 @@ package com.mycompany.optpenambahpengurang.java;
  *
  * @author ANDIKA
  */
-public class OptPenambahPenguran {
+public class OptPenambahPengurangJava {
     public static void main(String[] args) {
         int a, b;
         a = 7;
